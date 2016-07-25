@@ -226,8 +226,8 @@ THIRD_PARTY_APPS = (
 
 # Apps specific for this project go here.
 LOCAL_APPS = (
-    'notes',
-    'users',
+    'notes.apps.NotesConfig',
+    'users.apps.UsersConfig',
 )
 
 # See: https://docs.djangoproject.com/en/dev/ref/settings/#installed-apps
