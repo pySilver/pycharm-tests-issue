@@ -1,4 +1,4 @@
-Django==1.9.6
+Django==1.9.8
 
 django-appconf==1.0.1
 djangorestframework==3.3
